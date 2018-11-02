@@ -1,0 +1,4 @@
+.data/checks/*
+.data/tokens/*
+.data/users/*
+.logs/*
